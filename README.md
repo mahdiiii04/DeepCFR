@@ -70,5 +70,5 @@ python -c "from eval import play_episode; from dcfr import DeepCFR; agent = Deep
 
 ## Learn More
 
-Read the detailed blog post with diagrams and explanations:
+Read the detailed blog post:
 [DeepCFR: When Regret Meets Neural Networks](https://mahdiiii04.github.io/posts/DeepCFR/)
