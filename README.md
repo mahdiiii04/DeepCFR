@@ -72,8 +72,3 @@ python -c "from eval import play_episode; from dcfr import DeepCFR; agent = Deep
 
 Read the detailed blog post with diagrams and explanations:
 [DeepCFR: When Regret Meets Neural Networks](https://mahdiiii04.github.io/posts/DeepCFR/)
-
----
-
-If you want, I can also **add a “Quick Win Rate Example” snippet** to make the README more visual and engaging for GitHub visitors. Do you want me to do that?
-```
